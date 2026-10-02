@@ -16,7 +16,7 @@ Una selección de proyectos académicos y demos que muestra cómo abordo necesid
 | Red Sísmica · Iterator | Demo en C# para recorrer y seleccionar eventos sísmicos con datos ficticios. [Probar demo](https://lanfranco-pucheta-portfolio.onrender.com/projects/red-sismica-iterator/web/) |
 | Mesa de incidentes · SLA | Prototipo para registrar, priorizar y seguir incidentes, con reglas de plazo y pruebas. [Probar demo](https://lanfranco-pucheta-portfolio.onrender.com/projects/incident-sla/) |
 | Sur Estudio · Comercio digital | Demo de catálogo y pedido de prueba, con validación de stock. [Probar demo](https://lanfranco-pucheta-portfolio.onrender.com/projects/sur-estudio/) |
-| DevOps Production Pipeline | Repositorio público de práctica sobre CI/CD, Docker y seguridad. [Ver repositorio](https://github.com/Lann206/devops-production-pipeline) |
+| DevOps Production Pipeline | Proyecto documentado de CI/CD, contenedores e infraestructura como código, con alcance y estado explicados. El código fuente es privado y no se presenta como desplegado en producción. |
 
 ## Cómo trabajo
 
